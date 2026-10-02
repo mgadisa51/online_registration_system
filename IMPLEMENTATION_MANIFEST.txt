@@ -1,0 +1,3 @@
+Generated starter implementation for Borana University Online Student Registration System.
+Includes database schema, demo data, authentication, student registration, advisor review,
+admin department/program/course/student management, history, status, and electronic slip.
